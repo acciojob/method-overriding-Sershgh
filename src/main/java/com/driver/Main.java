@@ -17,7 +17,7 @@ public static class B extends A{
 B obj=new B();
 obj.meth();
 
-B obj1=new B();
-obj1.meth();
+//B obj1=new B();
+//obj1.meth();
   }
 }
